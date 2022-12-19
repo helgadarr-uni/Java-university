@@ -1,0 +1,7 @@
+id=132,brand=KIA,model=Sportage;id=132,brand=KIA,model=Sportage;id=132,brand=KIA,model=Sportage
+
+// Розділити по крапці з комою і викликати метод fromStringSerialize
+
+
+в такому виді запистаи і прочитиати
+в стрінг і з стрінг

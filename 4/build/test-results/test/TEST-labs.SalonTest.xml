@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="labs.SalonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-21T14:47:45" hostname="DESKTOP-M0PBPS3" time="0.189">
+  <properties/>
+  <testcase name="testId" classname="labs.SalonTest" time="0.189"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[нояб. 21, 2022 4:47:45 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 8.0.0.Final
+]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+id=132,brand=KIA,model=Sportage,color=BLACK,maxSpeed=300.0,year=2021,engineType=EIGHT,price=0.0

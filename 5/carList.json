@@ -1,0 +1,17 @@
+[ {
+  "id" : 12422,
+  "brand" : "KIA",
+  "model" : null,
+  "color" : null,
+  "maxSpeed" : 130.0,
+  "year" : 2015,
+  "engineType" : null
+}, {
+  "id" : 122243,
+  "brand" : "BMW",
+  "model" : null,
+  "color" : null,
+  "maxSpeed" : 0.0,
+  "year" : 2020,
+  "engineType" : null
+} ]

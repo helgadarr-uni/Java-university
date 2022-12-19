@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant1Test" tests="27" skipped="0" failures="0" errors="0" timestamp="2022-09-21T05:36:48" hostname="DESKTOP-M0PBPS3" time="0.047">
+  <properties/>
+  <testcase name="arrayNegativeTest" classname="lab0.Variant1Test" time="0.016"/>
+  <testcase name="arrayTest[0](3, [D@3f191845)" classname="lab0.Variant1Test" time="0.004"/>
+  <testcase name="arrayTest[1](5, [D@18271936)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="booleanTest[0](5, true)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="booleanTest[1](0, false)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="booleanTest[2](-3, false)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="forTest[0](3, 4, [I@7a35b0f5)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="forTest[1](5, 2, [I@2cb4893b)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="ifTest[0](2, 3)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="ifTest[1](0, 0)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="ifTest[2](-3, -3)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="inputTest[0](100, 1)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="inputTest[1](12, 0)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="inputTest[2](139, 1)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="inputTest[0](2, 8)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="inputTest[1](6, 24)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="matrixTaskNegativeTest" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="matrixTaskTest[0](4, 4, [[I@710c2b53)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="matrixTaskTest[1](2, 4, [[I@6e9a5ed8)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="negativeInputTest" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="negativeIntegerTest" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="negativeWhileTest" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="switchNegativeTest" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="switchTest[0](3, TUESDAY)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="switchTest[1](6, FRIDAY)" classname="lab0.Variant1Test" time="0.001"/>
+  <testcase name="whileTest[0](5, 2, 1)" classname="lab0.Variant1Test" time="0.0"/>
+  <testcase name="whileTest[1](12, 10, 2)" classname="lab0.Variant1Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
